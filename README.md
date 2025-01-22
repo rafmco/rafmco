@@ -1,16 +1,25 @@
-<h1>👋 &nbsp;Oi, eu sou o Rafael <br/>
+<h1>👋 &nbsp;Oi, eu sou Rafael <br/>
 Analista de Sistemas e desenvolvedor full-stack</h1>
 
-<p align="center">
-<div>
-<a href="https://www.linkedin.com/in/rafmco/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-<a href = "mailto:rafmco2@hotmail.com">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" target="_blank">
- </a>
-</div>
+<p align="left">
+    <a href="https://www.linkedin.com/in/rafmco/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+    <a href = "mailto:rafmco2@hotmail.com">
+      <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" target="_blank">
+     </a>
+</p>
 
+<p float="left">
+  
+  ![Rafmco's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafmco\&hide_rank=true\&show_icons=true\&hide=stars,issues,contribs\&show=prs_merged,prs_merged_percentage\&include_all_commits=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafmco&hide_progress=false&layout=compact)
+</p>
+
+<p float="left">
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafmco&repo=monitor-mysql\&show_owner=true)](https://github.com/rafmco/monitor-mysql)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafmco&repo=fcm-nextjs\&show_owner=true)](https://github.com/rafmco/fcm-nextjs)
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;Sobre mim: </h2>
@@ -36,4 +45,18 @@ Analista de Sistemas e desenvolvedor full-stack</h1>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">  
   <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg">
 </div>
+
 <br/>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [github-readme-stats-themes](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md) -->
+
+[GitHub-Stats]: https://github-readme-stats.vercel.app/api?username=rafmco\&rank_icon=github\&include_all_commits=true\&show_icons=true\&hide=stars,issues,contribs\&show=prs_merged,prs_merged_percentage
+<!-- \&hide=stars,commits,prs,issues,contribs -->
+<!-- \&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage -->
+<!-- \&hide_rank=true || \&rank_icon=github || \&rank_icon=percentile || \&rank_icon=default -->
+<!-- \&theme=transparent -->
+
+[Top-Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=rafmco&hide_progress=false&layout=compact
+<!-- &exclude_repo=repo1,repo2 -->
