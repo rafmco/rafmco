@@ -4,18 +4,26 @@ Analista de Sistemas, especialista em Banco de Dados e desenvolvedor full-stack
 <div>
   Iniciei minha carreira como Programador Delphi, evoluí para a área de Administração de Banco de Dados e, atualmente, atuo com diversas tecnologias.
 </div>
+<br/>
 
-<p float="left">
-  
-  ![Rafmco's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafmco\&hide_rank=true\&show_icons=true\&hide=stars,issues,contribs\&show=prs_merged,prs_merged_percentage\&include_all_commits=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafmco&hide_progress=false&layout=compact)
-</p>
+ <div>
+   <a href="https://github.com/rafmco">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafmco&hide_rank=true&show_icons=true&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage&include_all_commits=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafmco&hide_progress=false&layout=compact"/>
+</div>
 
-<p float="left">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafmco&repo=monitor-mysql\&show_owner=true)](https://github.com/rafmco/monitor-mysql)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafmco&repo=fcm-nextjs\&show_owner=true)](https://github.com/rafmco/fcm-nextjs)
-</p>
+<div>
+  <a href="https://github.com/rafmco/monitor-mysql">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=rafmco&repo=monitor-mysql&show_owner=true" />
+  </a>
+    <a href="https://github.com/rafmco/fcm-nextjs">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=rafmco&repo=fcm-nextjs&show_owner=true" />
+  </a>
+  </a>
+    <a href="https://github.com/rafmco/login-nextjs">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=rafmco&repo=login-nextjs&show_owner=true" />
+  </a>
+</div>
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=nodejs,vue,vuetify,react,nextjs,prisma,sequelize,ts,rabbitmq,js,docker,github,mysql,postgres,aws)](https://skillicons.dev)
@@ -54,11 +62,14 @@ Analista de Sistemas, especialista em Banco de Dados e desenvolvedor full-stack
 <!-- [github-readme-stats-themes](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md) -->
 <!-- [skill-icons](https://github.com/tandpfun/skill-icons) -->
 
-[GitHub-Stats]: https://github-readme-stats.vercel.app/api?username=rafmco\&rank_icon=github\&include_all_commits=true\&show_icons=true\&hide=stars,issues,contribs\&show=prs_merged,prs_merged_percentage
-<!-- \&hide=stars,commits,prs,issues,contribs -->
-<!-- \&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage -->
-<!-- \&hide_rank=true || \&rank_icon=github || \&rank_icon=percentile || \&rank_icon=default -->
-<!-- \&theme=transparent -->
+[GitHub-Stats]: https://github-readme-stats.vercel.app/api?username=rafmco&hide_rank=true&show_icons=true&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage&include_all_commits=true
+<!-- &hide=stars,commits,prs,issues,contribs -->
+<!-- &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage -->
+<!-- &hide_rank=true -->
+<!-- &rank_icon=github || &rank_icon=percentile || &rank_icon=default -->
+<!-- &theme=transparent -->
 
 [Top-Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=rafmco&hide_progress=false&layout=compact
 <!-- &exclude_repo=repo1,repo2 -->
+
+[Repo-Cards]: https://github-readme-stats.vercel.app/api/pin/?username=rafmco&repo=monitor-mysql\&show_owner=true
